@@ -1,4 +1,4 @@
-### Caio Augusto f. S.
+### Caio f. Soares
 
 <div style="display: inline_block"><br>
    <img align="center" alt="caio-Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
